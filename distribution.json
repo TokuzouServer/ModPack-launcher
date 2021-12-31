@@ -146,7 +146,7 @@
         "largeImageText": "Minecraft",
         "largeImageKey": "pack_numa"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
