@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "pack01",
-      "name": "バニラ1.16.5 (Minecraft 1.16.5)",
-      "description": "1.16.5 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/pack.png",
+      "name": "とくぞうサーバーWindows+Linux+Mac(intel)",
+      "description": "とくぞうサーバーへようこそ！。",
+      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
       "version": "1.0.1",
       "address": "tokuzouserver.net:25565",
       "minecraftVersion": "1.16.5",
@@ -20,7 +20,7 @@
         "largeImageText": "Minecraft",
         "largeImageKey": "pack_numa"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -51,9 +51,9 @@
     },
     {
       "id": "pack02",
-      "name": "ニコニコクラフト (Minecraft 1.16.5)",
-      "description": "ニコニコ動画風チャットMod",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack10-1.16.5/pack.png",
+      "name": "Minecraft1.16.5",
+      "description": "バニラ1.16.5",
+      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
       "version": "1.0.0",
       "address": "tokuzouserver.net:25565",
       "minecraftVersion": "1.16.5",
@@ -93,18 +93,18 @@
     },
     {
       "id": "pack03",
-      "name": "ニコニコクラフト (Minecraft 1.16.5)",
-      "description": "ニコニコ動画風チャットMod",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Pack10-1.16.5/pack.png",
+      "name": "marukun鯖",
+      "description": "バニラ1.16.5 marukunサーバーに接続可能",
+      "icon": "https://i.namemc-static.com/e9d81bfc886213fb.png",
       "version": "1.0.0",
-      "address": "tokuzouserver.net:25565",
+      "address": "play-marukunserver.ddns.net:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Minecraft",
         "largeImageText": "Minecraft",
         "largeImageKey": "pack_numa"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -135,9 +135,9 @@
     },
     {
       "id": "pack4",
-      "name": "バニラ1.12.2 (Minecraft 1.12.2)",
-      "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/pack.png",
+      "name": "とくぞうサーバーMAC(M1)",
+      "description": "M1MACでも動くように構成されています。",
+      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.12.2",
