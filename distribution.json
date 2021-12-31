@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/TeamKun/NumaPacks/news/news.rss",
   "discord": {
     "clientId": "784714976329596938",
-    "smallImageText": "とくぞうサーバーランチャー",
+    "smallImageText": "沼ランチャー",
     "smallImageKey": "pack_numa"
   },
   "servers": [
     {
       "id": "Minecraft-1.12.2",
-      "name": "M1-MAC用pack(Minecraft1.12.2)",
+      "name": "バニラ1.12.2 (Minecraft 1.12.2)",
       "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/pack.png",
       "version": "1.0.0",
-      "address": "tokuzouserver.net:25565",
+      "address": "",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "Minecraft",
@@ -345,7 +345,7 @@
       "description": "1.16.5 + 便利なModが導入されたおすすめのパックです。",
       "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.16.5/pack.png",
       "version": "1.0.1",
-      "address": "tokuzouserver.net:25565",
+      "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Minecraft",
@@ -421,4 +421,3 @@
         }
       ]
     },
-    {
