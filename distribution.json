@@ -53,7 +53,7 @@
       "id": "pack02",
       "name": "Minecraft1.16.5",
       "description": "バニラ1.16.5",
-      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
+      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/Minecraft.png?raw=true",
       "version": "1.0.0",
       "address": "tokuzouserver.net:25565",
       "minecraftVersion": "1.16.5",
