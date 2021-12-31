@@ -11,7 +11,7 @@
       "id": "Minecraft-1.12.2",
       "name": "M1-MAC用pack(Minecraft1.12.2)",
       "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/servers/Minecraft-1.12.2/pack.png",
+      "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
       "version": "1.0.0",
       "address": "tokuzouserver.net:25565",
       "minecraftVersion": "1.12.2",
