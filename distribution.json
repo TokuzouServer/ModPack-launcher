@@ -13,7 +13,7 @@
       "description": "とくぞうサーバーへようこそ！。",
       "icon": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/icon.png?raw=true",
       "version": "1.0.1",
-      "address": "tokuzouserver.net:25565",
+      "address": "",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Minecraft",
