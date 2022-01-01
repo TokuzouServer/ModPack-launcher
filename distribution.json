@@ -30,7 +30,7 @@
           "artifact": {
             "size": 7390346,
             "MD5": "6298276cc9396bb1b2d8526b1ee0e8c5",
-            "url": "https://raw.githubusercontent.com/TeamKun/NumaPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar"
+            "url": "https://github.com/tokuzou0829/ModPack-launcher/blob/main/pack/forge/forge-1.16.5-36.2.20-installer.jar?raw=true"
           },
           "subModules": []
         },
